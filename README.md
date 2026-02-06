@@ -74,6 +74,6 @@ Illustrer comment un algorithme glouton peut **optimiser une couverture minimale
 
 ```bash
 git clone https://github.com/USERNAME/nom-du-projet.git
-cd nom-du-projet
+cd nom-du-projet](https://github.com/Adam01-i/Bus-Stop-Simulation-avec-l-Algorithme-de-Glouton.git)
 npm install
 npm run dev
