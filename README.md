@@ -59,6 +59,20 @@ Illustrer comment un algorithme glouton peut **optimiser une couverture minimale
 
 ---
 
+## Captures d'écran du projet
+
+Voici quelques captures de l'application :
+
+![](public/screenshots/img_1.png)
+![](public/screenshots/img_2.png)
+![](public/screenshots/img_3.png)
+![](public/screenshots/img_4.png)
+![](public/screenshots/img_5.png)
+![](public/screenshots/img_6.png)
+
+
+> Les fichiers complets se trouvent dans `assets/screenshots/`
+
 ## 🛠️ Technologies utilisées
 
 - **Next.js**
