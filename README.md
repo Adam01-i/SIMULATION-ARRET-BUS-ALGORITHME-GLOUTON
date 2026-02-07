@@ -87,7 +87,7 @@ Voici quelques captures de l'application :
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/USERNAME/nom-du-projet.git
+git clone https://github.com/Adam01-i/SIMULATION-ARRET-BUS-ALGORITHME-GLOUTON.git
 cd nom-du-projet](https://github.com/Adam01-i/Bus-Stop-Simulation-avec-l-Algorithme-de-Glouton.git)
 npm install
 npm run dev
